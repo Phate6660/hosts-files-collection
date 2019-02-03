@@ -1,3 +1,6 @@
+
+# Start Facebook-Blocking hosts file.
+
 ############################################
 # To Completely Block Facebook
 # Add these entries below to your hosts file
@@ -911,3 +914,5 @@
 0.0.0.0 fb.com
 0.0.0.0 newsroom.fb.com
 0.0.0.0 investor.fb.com
+
+# End Facebook-Blocking Hosts file.
